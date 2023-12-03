@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-terraform/compare/v1.0.0...v1.0.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([db2bb90](https://github.com/kc-workspace/asdf-terraform/commit/db2bb90eafac0e948a0c38fc4aa23602689a3f16))
+
 ## 1.0.0 (2023-11-06)
 
 
